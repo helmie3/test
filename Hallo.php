@@ -1,5 +1,6 @@
 <HTML>
 <?php
+  echo "Hallo";
   echo "Hallo World ! <br>";
   
   $x = 3;
